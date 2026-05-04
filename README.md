@@ -1,4 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/27360929/ReadMe.md)
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building scalable ML inference pipelines and fine-tuning large language models (LLMs) for real-world production systems.<br>👯 I’m looking to collaborate on<br>Open-source machine learning tools, research engineering projects, and impactful applied AI solutions.<br>🤝 I’m looking for help with<br>Optimizing distributed training workflows and designing low-latency, high-throughput model serving systems at scale.<br>🌱 I’m currently learning<br>Reinforcement Learning from Human Feedback (RLHF), multimodal deep learning architectures, advanced MLOps practices, and building LLM-powered applications using LangChain and LangGraph.<br>💬 Ask me about<br>Machine Learning & Deep Learning, model development and algorithms, LLMs and chatbot systems, FastAPI-based model deployment, and building end-to-end AI applications as a full-stack AI engineer.<br>
 
